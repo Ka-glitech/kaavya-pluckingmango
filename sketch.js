@@ -26,7 +26,7 @@ function setup() {
   mango11=new Mango(1120,50,30); 
   mango12=new Mango(900,160,30); 
   tree=new Tree(1050,280); 
-  ground=new Ground(650,580,1300,20);
+  ground=new Ground(650,580,1300,3);
   chain=new Chain(stone.body,{x:235,y:420})
 
   
